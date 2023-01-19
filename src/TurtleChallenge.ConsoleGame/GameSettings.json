@@ -1,0 +1,30 @@
+{
+  "BoardWidth": 5,
+  "BoardHeight": 5,
+  "startingPoint": {
+    "position": {
+      "x": 0,
+      "y": 0
+    }
+  },
+  "exitPoint": {
+    "position": {
+      "x": 4,
+      "y": 2
+    }
+  },
+  "mines": [
+    {
+      "position": {
+        "x": 2,
+        "y": 2
+      }
+    },
+    {
+      "position": {
+        "x": 1,
+        "y": 3
+      }
+    }
+  ]
+}
